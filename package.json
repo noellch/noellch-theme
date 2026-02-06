@@ -1,0 +1,46 @@
+{
+  "name": "noellch",
+  "displayName": "noellch",
+  "description": "A retro, chill dark theme inspired by late summer sunset walks on the beach — where summer meets autumn, warm breeze, cold beer, golden hour vibes.",
+  "version": "0.1.0",
+  "publisher": "noellch",
+  "author": {
+    "name": "noellch"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "retro",
+    "sunset",
+    "warm",
+    "chill",
+    "beach",
+    "autumn",
+    "color-theme"
+  ],
+  "galleryBanner": {
+    "color": "#1a1520",
+    "theme": "dark"
+  },
+  "icon": "images/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "noellch",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noellch-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT"
+}
