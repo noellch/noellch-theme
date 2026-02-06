@@ -1,33 +1,30 @@
 # noellch
 
-A retro, chill dark theme for VS Code / Cursor.
+Late summer sunset on the beach. Warm breeze, cold beer, golden hour fading into autumn dusk. A chill vibe for your editor.
 
-Inspired by the feeling of walking on the beach at sunset — that moment where summer transitions into autumn. Warm breeze, cold beer, golden hour light, and the calm energy of a day winding down.
+Desaturated, low-contrast palette — like faded film. Easy on the eyes for long sessions.
+
+![preview](images/preview.png)
 
 ## Color Palette
 
-
-| Role        | Hex                           |
-| ----------- | ----------------------------- |
-| Background  | `#1a1520`                     |
-| Foreground  | `#d4c4a8`                     |
-| Keyword     | `#c46a58` — Terracotta sunset |
-| Function    | `#e8a758` — Golden hour       |
-| Type/Class  | `#c4b063` — Amber sand        |
-| Number      | `#d18a60` — Warm copper       |
-| String      | `#7aa776` — Coastal sage      |
-| Property    | `#79a0c2` — Twilight blue     |
-| Teal accent | `#59afa6` — Ocean cyan        |
-| Decorator   | `#af78ab` — Dusk purple       |
-| Comment     | `#766788` — Fading light      |
-
+| Role | Hex |
+|------|-----|
+| Background | `#201b27` |
+| Foreground | `#c9bda8` |
+| Keyword | `#b0786d` — Terracotta sunset |
+| Function | `#c89f6d` — Golden hour |
+| Type/Class | `#aea273` — Amber sand |
+| Number | `#b88d73` — Warm copper |
+| String | `#829d7f` — Coastal sage |
+| Property | `#849cb1` — Twilight blue |
+| Teal accent | `#6a9d98` — Ocean cyan |
+| Decorator | `#a383a1` — Dusk purple |
+| Comment | `#766b83` — Fading light |
 
 ## Optimized For
 
-- TypeScript / JavaScript / JSX
-- Python
-- Go
-- JSON / Markdown / HTML / CSS
+TypeScript · JavaScript · Python · Go · JSON · Markdown · HTML · CSS
 
 ## License
 
