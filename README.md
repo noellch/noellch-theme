@@ -10,7 +10,7 @@ Desaturated, low-contrast palette — like faded film. Easy on the eyes for long
 
 | Role | Hex |
 |------|-----|
-| Background | `#201b27` |
+| Background | `#1d1c1a` |
 | Foreground | `#c9bda8` |
 | Keyword | `#b0786d` — Terracotta sunset |
 | Function | `#c89f6d` — Golden hour |
