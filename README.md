@@ -1,8 +1,10 @@
 # noellch
 
-Late summer sunset on the beach. Warm breeze, cold beer, golden hour fading into autumn dusk. A chill vibe for your editor.
+Late summer sunset on the beach. Warm breeze, cold beer, golden hour fading into autumn dusk.
 
-Desaturated, low-contrast palette — like faded film. Easy on the eyes for long sessions.
+A faded film palette — like a Kodak print left in a shoebox for twenty years. Every color remembers what it used to be, but time has softened everything into a warm haze. The cool blue-grey background is the sky just after the sun dips below the horizon. The syntax colors are the last light catching on sand, driftwood, and shallow water.
+
+Low saturation, low contrast, high comfort. Built for long sessions where you want to feel like you're still at the beach, even at 2am.
 
 ![preview](images/preview.png)
 
@@ -10,17 +12,17 @@ Desaturated, low-contrast palette — like faded film. Easy on the eyes for long
 
 | Role | Hex |
 |------|-----|
-| Background | `#1d1c1a` |
-| Foreground | `#c9bda8` |
-| Keyword | `#b6766c` — Terracotta sunset |
-| Function | `#d3b67c` — Golden hour |
-| Type/Class | `#acaa66` — Amber sand |
-| Number | `#ba896d` — Warm copper |
-| String | `#649064` — Coastal sage |
-| Property | `#8098b1` — Twilight blue |
-| Teal accent | `#6db0aa` — Ocean cyan |
-| Decorator | `#a27fa0` — Dusk purple |
-| Comment | `#797167` — Fading light |
+| Background | `#252831` |
+| Foreground | `#cec5b5` |
+| Keyword | `#b58a81` — Sun-baked clay |
+| Function | `#c9b696` — Golden hour |
+| Type/Class | `#b1aa85` — Beach sand |
+| Number | `#b79c8a` — Copper in golden light |
+| String | `#91a087` — Beach grass |
+| Property | `#8ea3ad` — Distant ocean |
+| Teal accent | `#82a599` — Shallow warm water |
+| Decorator | `#a58c9f` — Autumn dusk |
+| Comment | `#717782` — Fading sky |
 
 ## Optimized For
 
